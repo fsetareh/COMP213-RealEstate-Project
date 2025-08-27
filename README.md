@@ -21,7 +21,7 @@ This is a real estate listing project developed for **COMP213: Web Interface Des
 ## 👩‍🎓 Author
 Fatemeh Setareh – Centennial College  
 Course: COMP213 – Web Interface Design  
-Instructor: (Add if required)
+
 
 ---
 
